@@ -1,0 +1,11 @@
+.tag {
+  padding: 0.3em 0.5em;
+  border: 1.5px solid #666666;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+  font-size: 0.8rem;
+}
+
+.active {
+  background-color: red;
+}

@@ -1,0 +1,20 @@
+.task_column {
+  width: 320px;
+  padding: 0.5em;
+}
+
+.task_column_name {
+  text-align: center;
+  padding-bottom: 0.3em;
+  font-size: 1.5rem;
+}
+
+.tasks_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 5px 0;
+}
